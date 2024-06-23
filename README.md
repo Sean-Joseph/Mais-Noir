@@ -21,5 +21,6 @@ Mais Noir is a filter that takes the ostensibly objective SERP (search engine re
   - React
   - React DOM
 
-  ## What the APP Looks like
+## What the APP Looks like
 
+![alt-text](https://github.com/Sean-Joseph/Mais-Noir/blob/main/Screen%20Shot%202024-06-23%20at%203.22.47%20PM.png)
