@@ -17,7 +17,7 @@ Mais Noir is a filter that takes the ostensibly objective SERP (search engine re
 - Add in more search queries
 - Add in more options to search besides just gifs and images
 
-  ## Dependencies
+## Dependencies
   - React
   - React DOM
 
